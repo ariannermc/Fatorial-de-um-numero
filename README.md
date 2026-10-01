@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Conceito
+## Conceito
  
 **Fatorial** é a multiplicação de um número por todos os inteiros positivos menores que ele, do 1 até o número. É representado pelo símbolo `!`.
 
